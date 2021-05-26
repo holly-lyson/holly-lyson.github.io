@@ -2,7 +2,7 @@
 layout: post
 title: Hobbies
 description: Photography
-image: assets/images/jellies.JPG
+image: assets/images/jellies.jpg
 nav-menu: true
 ---
 

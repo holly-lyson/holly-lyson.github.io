@@ -1,0 +1,5 @@
+forty-jekyll-theme/.gitignore
+forty-jekyll-theme/.gitlab-ci.yml
+forty-jekyll-theme/.github/FUNDING.yml
+forty-jekyll-theme/.github/workflows/dry-run.yml
+forty-jekyll-theme/.github/workflows/github-pages.yml

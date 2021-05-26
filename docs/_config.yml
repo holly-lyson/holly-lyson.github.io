@@ -13,7 +13,7 @@ zip_code: 08234
 country: United States of America
 phone: (605) 377-5335
 
-# homepage tiles
+# homepage tile
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 3
 
